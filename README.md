@@ -1,3 +1,7 @@
+Temperature data of Gurgaon is taken from Aug to Sep from the source:
+https://www.visualcrossing.com/weather/weather-data-services/Gurgaon,%20India/metric/2021-08-01/2021-08-31#
+
+
 ![alt-text](https://github.com/shivanshjayara/zenatix_solutions/blob/master/Plots/AC_vs_Hourly_consumption_August.jpg)
 ![alt-text](https://github.com/shivanshjayara/zenatix_solutions/blob/master/Plots/AC_vs_Hourly_consumption_September.jpg)
 ![alt-text](https://github.com/shivanshjayara/zenatix_solutions/blob/master/Plots/Temp_VS_Power.jpg)
